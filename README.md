@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @itsanup1
 - 👀 I’m interested in Reading Books 📚 
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning Fullstack Web Development, Python and C++
 - 💞️ I’m looking to collaborate on my future projects and will appreciate your help.
-- 📫 To reach me contact on my email address.
+- 📫 To reach me contact on my instagram profile.
 - ❤️ I Will Like To Make Friends
 
 <!---
